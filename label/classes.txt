@@ -1,0 +1,4 @@
+red light
+yellow light
+green light
+count
